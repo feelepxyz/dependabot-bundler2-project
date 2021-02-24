@@ -1,0 +1,1 @@
+# dependabot-bundler2-project
